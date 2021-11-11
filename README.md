@@ -2,7 +2,7 @@
 
 * first go to **index.html** file
 * then copy the code
-* go to **replit.co** and sign up
+* go to **replit.com** and sign up
 * create a repl name it whatever you want (make the language **html**)
 * delete the **ccs** and **js** file
 * in **index.html** pste tthe code you copied 
